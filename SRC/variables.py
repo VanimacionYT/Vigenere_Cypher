@@ -22,7 +22,5 @@ formatplaintextspecial = {}
 plaintextkeyword = "hidden"
 #Word Password After Formatting
 formatplaintextkeyword = list(plaintextkeyword)
-
-#########################
-#   FORMAT VARIABLE     #
-#########################
+#Cyphered Text in formatting
+formatcyphertext = []
