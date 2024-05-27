@@ -7,19 +7,19 @@ alphabet = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n"
 #Alphabet After Formatting
 formatalphabet = []
 #The Alphabet Type
-alphabettype = "keyed" #normal or keyed
+alphabettype = "normal" #normal or keyed
 #In Case Of Keyed Alphabet This Is The Keyed Word
-alphabetkeyword = "grenday"
+alphabetkeyword = ""
 #Alphabet Keyword After Formatting
 formatalphabetkeyword = list(alphabetkeyword)
 #Text To Chypher
-plaintext = "habitissimo mola"
+plaintext = ""
 #Text To Chypher After Formatting
 formatplaintext = list(plaintext)
 #Dictionary that stores special characters in the format plain text (position : character)
 formatplaintextspecial = {}
 #Word Used As Password To Cypher The Plain Text Using The Vigenere Alphabet
-plaintextkeyword = "hidden"
+plaintextkeyword = ""
 #Word Password After Formatting
 formatplaintextkeyword = list(plaintextkeyword)
 #Cyphered Text in formatting
